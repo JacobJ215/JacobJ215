@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@JacobJ215](https://jacobj215.github.io/)
+- 👋 Hi, I’m [@JacobJ215](https://jacobj215.github.io/Portfolio)
 - 👀 I’m interested in Deep Learning 
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me https://www.linkedin.com/in/jacobj2718/
